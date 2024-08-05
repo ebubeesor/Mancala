@@ -1,2 +1,2 @@
 # Mancala
-Mancala Game
+Simple Mancala game between a player and cpu 
