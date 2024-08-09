@@ -4,10 +4,15 @@ The MancalaBoard class is a graphical representation of the Mancala game using S
 
 ## Key Features:
 -*Dynamic Game Rules:* The board supports multiple variations of Mancala, such as Kalah and Ayo. The game rules are selected based on the gameType parameter during initialization.
+
 -*Interactive UI:* The board consists of 14 pits, including two stores (one for each player). Each pit is represented as a JButton, and their layout is set to resemble the traditional Mancala board configuration.
+
 -*Player and CPU Interaction*: The game alternates turns between a human player and an AI opponent. The human player interacts with the board by clicking on the pits, while the AI makes random valid moves.
+
 -*Game Status Updates:* The UI updates automatically to reflect changes in the number of stones in each pit. After each move, the board is refreshed to show the current state.
+
 -*Error Handling:* Invalid moves are handled gracefully with error messages, ensuring a smooth gaming experience.
+
 -*Initialization:*
 The board is initialized with the following steps:
 
