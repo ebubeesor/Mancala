@@ -1,6 +1,5 @@
 # Mancala
-## MancalaBoard Class
-The MancalaBoard class is a graphical representation of the Mancala game using Swing components. It supports different game variations, such as Kalah and Ayo, by dynamically loading the appropriate game rules.
+This a Mancala game made using java, graphically represented using Swing components. It supports different game variations, such as Kalah and Ayo, by dynamically loading the appropriate game rules.
 
 ## Key Features:
 -*Dynamic Game Rules:* The board supports multiple variations of Mancala, such as Kalah and Ayo. The game rules are selected based on the gameType parameter during initialization.
